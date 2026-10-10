@@ -1,3 +1,5 @@
+MERGED EX1
+
 # GitExercise_Conflicts
 
 
@@ -43,6 +45,7 @@ And after Part 2 the new graph will look like
      \             /
       \----*------/
 ```
+
 
 ## Setup this stuff first
 1. Fork this repo by pressing the Fork button at the top of this webpage
@@ -112,5 +115,6 @@ On the top left of the git panel are a set of cloud icons, one with the arrow po
   
 ## Congrats!! 
 You've dealt with a simple version of the notebook conflict problem. This workflow will happen in your projects all the time, when person A and person B need to merge their seperate parts of the project together into the final project. 
+
 
 Another common project workflow is if there's a red dot on pull (down arrow) that means someone else made changes to the remote that you don't have.  Pull operations need to be done before push operations... so if someone changed the remote after your clone but before your push you will have to pull first, merge, and resolve any conflicts before you are allowed to push your changes to remote.  We didn't have to do that here, but its a very normal workflow for your projects.
